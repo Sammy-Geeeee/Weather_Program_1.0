@@ -135,3 +135,8 @@ while True:
     else:
         print('You need to request a weather data type. Please try again.')
         continue
+
+# End - 22/01/2021
+
+# FUTURE WORK OR FURTHER ITERATIONS
+# This could be done in a GUI, like the weather app you might get on a phone
